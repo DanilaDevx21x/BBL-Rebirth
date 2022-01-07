@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:12
+-keep class ru.Wayfarerx21x.bbl.MainActivity { <init>(...); }
+
